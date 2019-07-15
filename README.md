@@ -4,10 +4,10 @@ International Students
 ## Selling Points
 ### Main
 1. Course(lecture) review from previous students\
-  Help students make a better choice of slecting courses\
+  Help students make a better choice of selecting courses\
   Provide a platform for student feedbacks
 
-2. Study Program review from privious sutdents\
+2. Study Program review from privious students\
   Help international students know better study programs they are interested in
 
 3. Study Material\
